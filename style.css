@@ -1,0 +1,21 @@
+
+th{
+    color: red;
+    border: 1px solid black;
+}
+td{
+    color: powderblue;
+    border: 1px solid black;
+}
+.hello{
+    color: red;
+    border: 2px solid black;
+    width: 25%;
+    background-color: yellow;
+    margin-left: 50px; 
+    /* float: right; */
+    padding-left: 30px;
+}
+#heading3{
+    color: green;
+}
